@@ -26,7 +26,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": -1.7301718970139177,
         "pitch": 0.01223300166894603,
-        "fov": 1.572958126384129
+        "fov": 2.443460952792061
       },
       "linkHotspots": [
         {
@@ -40,7 +40,7 @@ var APP_DATA = {
         {
           "yaw": -1.7265236171177207,
           "pitch": -0.3295624522799532,
-          "title": "Cửa Mở Lùa 3 Ray",
+          "title": "Cửa Đi Mở Lùa 3 Ray",
           "text": "M03 - Vàng Champagne"
         },
         {
@@ -52,7 +52,7 @@ var APP_DATA = {
         {
           "yaw": -3.0391975519924124,
           "pitch": -0.34653470588741797,
-          "title": "Cửa Xếp Trượt",
+          "title": "Cửa Đi Xếp Trượt",
           "text": "M05 - Vàng Hồng"
         }
       ]
@@ -127,7 +127,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": 1.1512904613977248,
         "pitch": 0.005332178761378259,
-        "fov": 1.572958126384129
+        "fov": 2.443460952792061
       },
       "linkHotspots": [
         {
@@ -171,7 +171,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": -1.7353922841505565,
         "pitch": -0.003586292983547068,
-        "fov": 1.5707963267948966
+        "fov": 2.443460952792061
       },
       "linkHotspots": [
         {
@@ -209,7 +209,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "yaw": -1.7384000568974365,
         "pitch": -0.00024804735279815304,
-        "fov": 1.572958126384129
+        "fov": 2.443460952792061
       },
       "linkHotspots": [
         {
